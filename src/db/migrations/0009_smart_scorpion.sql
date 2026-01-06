@@ -1,0 +1,1 @@
+ALTER TABLE "image_task" ALTER COLUMN "credits_used" SET DATA TYPE real;
